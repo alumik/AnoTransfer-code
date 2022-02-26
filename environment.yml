@@ -1,0 +1,10 @@
+name: at
+channels:
+  - pytorch
+  - defaults
+dependencies:
+  - scikit-learn
+  - pandas
+  - pytorch
+  - matplotlib
+  - tqdm
